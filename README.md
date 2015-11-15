@@ -7,7 +7,7 @@ Lemonade（レモネード）はデザイン性の高いkeynoteテーマです�
 こういう人に向いています。
 
 ### プレゼンテーションサンプル
-
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/J04vMg9PKrE47p" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MaikoUeda/lemonadeoriginal-keynote-theme" title="Lemonade-original keynote theme." target="_blank">Lemonade-original keynote theme.</a> </strong> from <strong><a href="//www.slideshare.net/MaikoUeda" target="_blank">Meyco U</a></strong> </div>
 
 ## インストール
 * Lemonade.zipを解凍
@@ -23,6 +23,6 @@ Lemonade（レモネード）はデザイン性の高いkeynoteテーマです�
 * 無断転載は禁止です。
 
 ### 作者
-* twitter @meyco
-* web meycou.com
-* github meyco
+* twitter [@meyco](https://twitter.com/meyco)
+* web [meycou.com](http://meycou.com/)
+* github [meyco](https://github.com/meyco)
