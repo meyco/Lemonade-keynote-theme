@@ -18,8 +18,8 @@ Lemonade（レモネード）はデザイン性の高いkeynoteテーマです�
 * Mac OSX Yosemite 以降
 
 ### 利用規約
-* このテンプレートの利用や提供の停止により，利用者または第三者が被ったいかなる不利益または損害について，理由を問わず作者は一切の責任を負わないものとします。
-* このテンプレートデータの無断販売はおやめください。
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/meyco/Lemonade-keynote-theme" property="cc:attributionName" rel="cc:attributionURL">meyco</a> 作『<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">Lemonade</span>』は<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">クリエイティブ・コモンズ 表示 - 非営利 - 継承 4.0 国際 ライセンス</a>で提供されています。
 
 ### 作者
 * twitter [@meyco](https://twitter.com/meyco)
